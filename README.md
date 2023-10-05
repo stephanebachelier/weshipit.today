@@ -38,3 +38,4 @@ yarn start
 ## Was this helpful?
 
 ☕️ [Leaving a tip helps me a lot!](https://github.com/sponsors/flexbox?frequency=one-time&sponsor=flexbox)
+# sic-frontend
